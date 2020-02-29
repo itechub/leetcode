@@ -29,9 +29,6 @@ public class MergeTwoLists {
     }
 }
 
-/**
- * 还是别人的好
- */
 class OthersSolution {
     ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null) {
@@ -48,9 +45,6 @@ class OthersSolution {
     }
 }
 
-/**
- * 屎特, 我的方法太吃屎了
- */
 class MySolution {
     ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null) {
